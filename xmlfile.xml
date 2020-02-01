@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ComputerEngineering>
+    <Course Author="Write Your Name Here" Name="Application programming - Java and XML technologies">
+        <Topics>XML</Topics>
+        <Topics>XSD</Topics>
+    </Course>
+</ComputerEngineering>
